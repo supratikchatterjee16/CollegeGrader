@@ -1,0 +1,2 @@
+REFER:https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html
+jar cfm jarfilename.jar Manifestfile.extension "folder to include(could be ./)"

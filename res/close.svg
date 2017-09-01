@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40">
+<rect x="2" y="2" rx="4" ry="4" width="40" height="40" style="fill:rgba(0,0,0,0);stroke-width:2;stroke:rgba(0,0,0,0);"/>
+<polygon points="5,5 35,35" style="fill:rgba(0,0,0,1);stroke-width:2;stroke:#000;"/>
+<polygon points="5,35 35,5" style="fill:rgba(0,0,0,1);stroke-width:2;stroke:#000;"/>
+No svg support
+</svg>
+
